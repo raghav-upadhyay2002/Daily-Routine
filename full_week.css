@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  background-color: rgb(233, 215, 207);
+  margin: 50px;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+h1 {
+  font-size: 50px;
+  font-family: "Barlow", sans-serif;
+  color: rgb(82, 34, 8);
+  background-color: rgb(223, 136, 124);
+  padding: 12px;
+  border: 1px solid rgb(223, 136, 124);
+  border-radius: 10px;
+}
+a {
+  color: rgb(82, 34, 8);
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(14, 94, 76);
+  text-decoration: underline;
+}
+P {
+  font-size: 20px;
+  font-family: "Fira Sans", sans-serif;
+}
+#Valo {
+  color: rgb(82, 34, 8);
+  font-weight: bold;
+}
+#Study {
+  color: rgb(82, 34, 8);
+  font-weight: bold;
+}
+#HTML {
+  color: rgb(82, 34, 8);
+  font-weight: bold;
+}
